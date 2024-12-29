@@ -1,0 +1,14 @@
+.box {
+    font-size: 28px;
+    font-family: "Helevicta", "Times New Roman", sans-serif;
+
+}
+
+.black {
+    color: #ffff;
+    background-color: #000000;
+}
+
+.yellow {
+    background-color: #ffff00;
+}
