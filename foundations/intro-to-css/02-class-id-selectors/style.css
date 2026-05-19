@@ -1,1 +1,22 @@
 /* Add CSS Styling */
+p {
+    color: black;
+    background-color: lightcoral;
+    font-family: verdana, sans-serif;
+}
+
+div {
+    color: blue;
+    font-size: 36px;
+}
+
+#four {
+    color: black;
+    background-color: green;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.three {
+    font-size: 24px;
+}
