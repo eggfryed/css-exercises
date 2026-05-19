@@ -1,1 +1,18 @@
 /* Add CSS Styling */
+button {
+    background-color: white;
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+    margin: 25px, 0px, 25px, 0px;
+    gap: 10px;
+}
+
+.me {
+    background-color: black;
+    color: white;
+}
+
+.you {
+    background-color: yellow;
+    color: black;
+}
